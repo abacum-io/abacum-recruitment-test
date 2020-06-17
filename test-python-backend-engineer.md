@@ -16,7 +16,7 @@ Please use the [sample data](support-files/sample-data.csv) provided as input
 Feel free to spend as much or as little time on the exercise as you like as long as the following requirements have been met.
 
 - Please complete the user stories below.
-- Your code should compile and run in one step.
+- Your code should run in one step.
 - Feel free to use whatever python frameworks / libraries / packages you like (Django / DRF preferred).
 - You must include tests
 
