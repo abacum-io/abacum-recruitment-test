@@ -4,7 +4,7 @@ Thanks you for taking the time to do our technical test. Feel free to send us qu
 
 ## Coding test
 
-The task is to create a simple game called "Rock, Paper, Scissors, Lizard, Spock". If you don't know about it, you can take a look at this video https://www.youtube.com/watch?v=iSHPVCBsnLw
+The task is to create a simple game called "Rock, Paper, Scissors, Lizard, Spock" (simulation between two players). If you don't know about it, you can take a look at this video https://www.youtube.com/watch?v=iSHPVCBsnLw
 
 ### Game rules
 
