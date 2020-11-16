@@ -20,6 +20,7 @@ Feel free to spend as much or as little time on the exercise as you like as long
 - Feel free to use whatever python frameworks/libraries/packages you like (Django / DRF is what we use but is not a big requirement for this test).
 - We would highly value the use of libraries like pandas or NumPy   
 - You are encouraged to include tests
+- The user interface is not required
 
 ### User story 1
 
