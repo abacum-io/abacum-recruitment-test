@@ -1,9 +1,8 @@
 # Abacum Python Backend engineer test
 
-Thank you for taking the time to do our technical test. It consists of two parts:
-
-- [A coding test](#coding-test)
-- [A few technical questions](#technical-questions)
+Thank you for taking the time to do our technical test. 
+We are very excited that you took the decision to apply for this position. 
+To make sure you are a good fit we want to propose this coding test. It will not be long, promise.
 
 ## Coding test
 
@@ -54,13 +53,6 @@ I should be able to:
 - [ ] Get the monthly balance for a specific month and a specific account ([example](support-files/example_data/output/october_account_77800000.json))
 
 A JSON response is returned.
-
-## Technical-questions
-
-- How long did you spend on the coding test? What would you add to your solution if you had more time? If you didn't spend much time on the coding test then use this as an opportunity to explain what you would add.
-- What was the most useful feature that was added to the latest version of python? Please include a snippet of code that shows how you've used it.
-- How would you track down a performance issue in production? Have you ever had to do this?
-- Please describe yourself using JSON.
 
 ## Presentation
 
