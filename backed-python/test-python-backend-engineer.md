@@ -59,5 +59,5 @@ A JSON response is returned.
 - If you have interesting personal repositories or you have contributed to open source projects, 
 please send us your GitHub username and the repositories that you think are the most important in the context of this position
 - Send a zip file to careers@abacum.io with:
-  - README.md - Response to the technical questions and information on how to build/test your code
+  - README.md - Information on how to build/test your code
   - project - Folder with the project code
