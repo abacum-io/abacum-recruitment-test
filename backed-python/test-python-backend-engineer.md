@@ -18,7 +18,7 @@ Feel free to spend as much or as little time on the exercise as you like as long
 - Your code should run in one step.
 - Feel free to use whatever python frameworks/libraries/packages you like (Django / DRF is what we use but is not a big requirement for this test).
 - We would highly value the use of libraries like pandas or NumPy   
-- You are encouraged to include tests
+- It's mandatory to write tests
 - The user interface is not required
 
 ### User story 1
