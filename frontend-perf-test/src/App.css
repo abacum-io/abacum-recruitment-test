@@ -1,0 +1,134 @@
+/* Global reset and box-sizing */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Body styles */
+body {
+  font-family: 'Roboto', sans-serif;
+  background: linear-gradient(135deg, #010c18, #021a33); /* Deep space background */
+  color: #f0f0f0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  overflow: hidden;
+}
+
+/* Container for centering content */
+.container {
+  padding: 40px;
+  margin: 0;
+  background: rgba(0, 0, 0, 0.8);
+  border-radius: 15px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.8);
+  max-width: 960px;
+  width: 100%;
+  text-align: center;
+  overflow-y: scroll;
+  height: 800px;
+}
+
+/* Title and subtitle */
+h1 {
+  font-size: 3rem;
+  margin-bottom: 20px;
+  color: #ffcc00;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  text-shadow: 0px 0px 10px rgba(255, 204, 0, 0.7);
+}
+
+h2 {
+  font-size: 1.2rem;
+  color: #f0f0f0;
+  margin-top: 20px;
+  font-weight: 300;
+  letter-spacing: 1px;
+}
+
+/* Button Styles */
+.load-more-button {
+  background: linear-gradient(135deg, #ff0099, #66ccff);
+  color: white;
+  padding: 15px 30px;
+  font-size: 18px;
+  border: none;
+  border-radius: 25px;
+  cursor: pointer;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  transition: transform 0.3s ease, background 0.3s ease;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.6);
+}
+
+.load-more-button:hover {
+  transform: scale(1.1);
+  background: linear-gradient(135deg, #66ccff, #ff0099);
+  box-shadow: 0 6px 15px rgba(0, 0, 0, 0.7);
+}
+
+/* Table styling */
+.data-table {
+  width: 100%;
+  margin-top: 30px;
+  border-collapse: collapse;
+  text-align: center;
+  font-size: 1.2rem;
+  font-family: 'Courier New', monospace; /* Spacey font for a techy look */
+  color: #ffffff;
+}
+
+.data-table th {
+  background: linear-gradient(135deg, #1e3a4d, #17273a);
+  color: #ffcc00;
+  font-weight: bold;
+  padding: 15px 30px;
+  border-bottom: 3px solid #ffcc00;
+  letter-spacing: 1.5px;
+}
+.data-table tbody {
+
+}
+
+.data-table td {
+  background: #1f2a3d;
+  padding: 15px 30px;
+  border-bottom: 1px solid #333;
+  color: #d3d3d3;
+}
+
+.data-table td:hover {
+  background: #2d3955;
+}
+
+.table-row {
+  cursor: pointer;
+  transition: transform 0.3s ease, background 0.3s ease;
+}
+
+.table-row:hover {
+  transform: scale(1.05);
+  background: #3e5068;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.6);
+}
+
+/* Active row on click */
+.table-row:active {
+  background: #445d78;
+  transform: scale(0.98);
+}
+
+/* Futuristic glow effect for the player names */
+.player-name {
+  color: #00ffcc;
+  text-shadow: 0px 0px 5px rgba(0, 255, 204, 0.8), 0px 0px 10px rgba(0, 255, 204, 0.6);
+}
+
+/* Special class for player IDs */
+.player-id {
+  color: #ff6347;
+  font-weight: bold;
+}
